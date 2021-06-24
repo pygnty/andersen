@@ -208,9 +208,14 @@ a {
     flex-wrap: wrap;
     background-color: #E5E5E5;
 }
-.portfolio img{
+
+.portfolio a{
     
     width: 25%;
+}
+.portfolio a img{
+    
+    width: 100%;
 }
 .links{
 
